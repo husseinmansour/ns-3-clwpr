@@ -1,0 +1,1 @@
+This is a branch of ns-3.11 simulator including the position based routing protocol described in "CLWPR - A Novel Cross-Layer Optimized Position Based Routing Protocol for VANETs" to be presented in IEEE VNC 2011. [download](http://info.ee.surrey.ac.uk/Personal/K.Katsaros/papers/KK_CLWPR_VNC_11.pdf)
